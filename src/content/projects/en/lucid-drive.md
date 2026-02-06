@@ -21,5 +21,5 @@ Reduce fatigue-related driving risk by detecting reduced vigilance and guiding t
 ## Results
 The system provides four vigilance states with recommended actions, from normal driving to immediate stop.
 
-## Visuals
-Add a short demo clip or a screenshot of the live dashboard.
+<!-- ## Visuals
+Add a short demo clip or a screenshot of the live dashboard. -->

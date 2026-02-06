@@ -21,5 +21,5 @@ Réduire le risque d'accidents liés à la fatigue en détectant une baisse de v
 ## Résultats
 Le système propose quatre états de vigilance avec actions recommandées, de conduite normale à arrêt immédiat.
 
-## Visuels
-Ajoutez une courte démo vidéo ou une capture d'écran du tableau de bord.
+<!-- ## Visuels
+Ajoutez une courte démo vidéo ou une capture d'écran du tableau de bord. -->
