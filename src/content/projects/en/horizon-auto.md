@@ -1,6 +1,6 @@
 ---
 title: "Horizon Auto"
-date: "2025-07-30"
+date: "2025-01-01"
 summary: "A robust desktop application for driving school management featuring role-based dashboards for Admins, Secretaries, and Instructors."
 tags: ["Java", "JavaFX", "MySQL", "MVC Pattern", "Desktop Application"]
 repo: "https://github.com/Sofiane-Meziane/Horizon-Auto"

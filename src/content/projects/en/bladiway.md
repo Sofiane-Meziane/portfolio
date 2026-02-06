@@ -1,6 +1,6 @@
 ---
 title: "Bladiway"
-date: "2025-07-31"
+date: "2025-05-01"
 summary: "A comprehensive carpooling ecosystem featuring a Flutter mobile app for users and a React-based admin dashboard for platform management."
 tags: ["Flutter", "Firebase", "Google Maps", "React", "Node.js", "Mobile Development"]
 repo: "https://github.com/Sofiane-Meziane/Bladiway"

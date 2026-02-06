@@ -1,6 +1,6 @@
 ---
 title: "Laptop Expert"
-date: "2026-02-04"
+date: "2026-01-20"
 summary: "Advanced Machine Learning system capable of classifying laptops and estimating market prices with high precision using Random Forest and Ridge Regression."
 tags: ["Machine Learning", "Random Forest", "Ridge Regression", "Streamlit", "Feature Engineering", "Python"]
 dataset: "Laptop Prices (Kaggle)"
