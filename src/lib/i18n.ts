@@ -61,7 +61,7 @@ export const i18n = {
     eduLicenceTitle: "B.S. Computer Science",
     eduLicenceDate: "2022 - 2025",
     eduLicenceDesc: "Software projects, application architecture, algorithms, and databases.",
-    contactBody: "Interested in collaborating? Feel free to reach out via email.",
+    contactBody: "Interested in collaborating? Feel free to reach out.",
     contactEmail: "sofianemeziane20@gmail.com",
     footerCopyright: "© 2026 Sofiane Meziane",
     footerRights: "All rights reserved."
@@ -123,7 +123,7 @@ export const i18n = {
     eduLicenceDate: "2022 - 2025",
     eduLicenceDesc: "Projets logiciels, architecture applicative, algorithmique et bases de donnees.",
     contactTitle: "Me contacter",
-    contactBody: "Intéressé par une collaboration ? N'hésitez pas à me contacter par email.",
+    contactBody: "Intéressé par une collaboration ? N'hésitez pas à me contacter.",
     contactEmail: "sofianemeziane20@gmail.com",
     footerCopyright: "© 2026 Sofiane Meziane",
     footerRights: "Tous droits réservés."
