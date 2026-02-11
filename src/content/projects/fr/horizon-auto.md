@@ -1,6 +1,6 @@
 ---
 title: "Horizon Auto"
-date: "2025-07-30"
+date: "2025-01-01"
 summary: "Une application de bureau robuste pour la gestion d'auto-école avec des tableaux de bord dédiés aux Admin, Secrétaires et Moniteurs."
 tags: ["Java", "JavaFX", "MySQL", "Pattern MVC", "Application Bureau"]
 repo: "https://github.com/Sofiane-Meziane/Horizon-Auto"

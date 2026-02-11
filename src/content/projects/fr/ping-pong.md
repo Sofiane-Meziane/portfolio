@@ -1,6 +1,6 @@
 ---
 title: "Ping Pong"
-date: "2025-07-30"
+date: "2023-01-30"
 summary: "Jeu de ping pong 2D en C avec Raylib, IA adversaire, collisions et score."
 tags: ["C", "Raylib", "Jeu vidéo"]
 repo: "https://github.com/Sofiane-Meziane/Ping-Pong"
